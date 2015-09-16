@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transactions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_button">Here are Transitions</string>
+</resources>

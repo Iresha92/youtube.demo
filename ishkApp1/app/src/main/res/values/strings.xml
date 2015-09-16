@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ishkApp1</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignInTitle">Sign In</string>
+    <string name="SignInButton">Log In</string>
+</resources>
